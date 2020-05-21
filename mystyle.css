@@ -1,1 +1,11 @@
+body {
+  color: Aquamarine;
+}
 
+h1 {
+  color: #7fffd4;
+}
+
+p.ex {
+  color: DSB(0,0,255);
+}
